@@ -1,0 +1,1 @@
+Jupyter Notebook file testing method of truncating ResNet18 algorithm and completing with K-Means clustering on CIFAR-10 dataset in order to save retraining time. Demonstrates how this method does not work well.
